@@ -6,3 +6,5 @@ Werkzeug
 tensorflow
 Pillow
 requests
+gunicorn
+
